@@ -1,4 +1,4 @@
-![Image can't be displayed](imgs/Site_Map.png)
+![Image can't be displayed](Site_Map.png)
 
 
 1.	What are the 6 Phases of Web Design?
