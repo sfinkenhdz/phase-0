@@ -1,6 +1,7 @@
 ![Image can't be displayed](/Site_Map.png)
 
 
+Reflection Questions:
 1.	What are the 6 Phases of Web Design?
 -Info Gathering
 -Planning
