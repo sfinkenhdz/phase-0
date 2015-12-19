@@ -1,0 +1,88 @@
+
+* {
+  background-color: #ffffff;
+  color: #000080;
+}
+
+.hline { 
+  width:100%; 
+  height:.5px;
+  border-style: solid;
+  border-color: gray white white white;
+  border-width: thin
+}
+
+span {
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.rtcol {
+  float: right;
+  width: 50%; 
+  position: relative;
+  margin-top:-10px;
+}
+
+.geico {
+  text-align: center;
+  font-size: 8px;
+  }
+  
+.smalltype {
+  font-size: 8px;
+}
+
+div {
+  width: 100%;
+  height: 1px;
+  color: black;
+}
+
+a {
+  color: #800080;
+}
+
+a: visited {
+  color: #ff0000;
+  }
+  
+body ul li {
+   font-size: 10px
+ }
+
+
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+I think the most important things to remember are to be sure your path is correct, and to double-check that everything is linked correctly.
+And ouf course, remember to include type="text/css" and rel="stylesheet" as well as the link istelf.
+
+What tricks did you use with positioning? How hard was it to get the site as you wanted ti?
+I used the properties "float" and "position" to get the links to line up in two columns. This could also have been achieved by creating a table, but I didn't think about that until I had already done it this way. I probably should have done more with padding and margins to get the headers closer together, but I'm more interested in getting to my own site rather than messing with this crappy looking site.
+It did take some trial and error to get the solumns figured out, as well as figuring out how to create the lines, but it wasn't too hard with a little research and trying different things.
+
+What CSS did you use to modify the HTML?
+I used font-size, fone-weight, text-align, and severral border properties to create the lines.
+
+Did you modify the HTML to include classes or IDs? If so, which did you choose and why?
+I used several classes to style different parts of the page, like the links, the Geico section, etc. I also created a class to create the lines. I chose classes over IDs because I needed to style multiple elements.
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+One major best practice that I followed, but that was broken on the actual site, is separating the styling into a separate document. I can definitely see why this is useful, so I prefer the way I did it. The actual site also used a table to line up the two columns of links. As I said, that occurred to me, but only after I had done something else. I feel like there might be a reason to use the table for this, but until I figure out what that is, I like my way better. It achieved the right results, and was much easier.
+
+*/
