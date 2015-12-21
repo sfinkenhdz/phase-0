@@ -1,12 +1,12 @@
-![Image 1](/Image1.png)
-![Image 2](/Image2.png)
-![Image 3](/Image3.png)
-![Image 4](/Image4.png)
-![Image 5](/Image5.png)
-![Image 6](/Image6.png)
-![Image 7](/Image7.png)
-![Image 8](/Image8.png)
-![Image 9](/Image9.png)
+![Image 1](Image1.png)
+![Image 2](Image2.png)
+![Image 3](Image3.png)
+![Image 4](Image4.png)
+![Image 5](Image5.png)
+![Image 6](Image6.png)
+![Image 7](Image7.png)
+![Image 8](Image8.png)
+![Image 9](Image9.png)
 
 How can you use Chrome's Dev Tools inspector to help you format or position an element?
 The inspector is incredibly helpful with this because you can see what your code does as you do it. This let's you experiment to see what works to get the look you have in mind. 
