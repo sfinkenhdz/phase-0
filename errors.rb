@@ -24,7 +24,7 @@ end
 #
 # 3. What is the type of error message? syntax error
 #
-# 4. What additional information does the interpreter provide about this type of error? "unexpected end-of-input, expecting keyword_end" The intepreter was expecting "end" but didn't find it.
+# 4. What additional information does the interpreter provide about this type of error? "unexpected end-of-input, expecting keyword_end" The intepreter was expecting "end" but couldn't find it.
 #
 # 5. Where is the error in the code? On line 16. There needs to be an "end" to end "while" as well as one to end "def".
 #
