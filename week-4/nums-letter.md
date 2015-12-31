@@ -19,3 +19,25 @@ require 'minutes-in-decade'
 markdown = Minutes-in-decade.new
 puts markdown.to_html
 ```
+
+https://github.com/sfinkenhdz/phase-0/blob/master/week-4/definining-variables.rb
+https://github.com/sfinkenhdz/phase-0/blob/master/week-4/simple-string.rb
+https://github.com/sfinkenhdz/phase-0/blob/master/week-4/basic-math.rb
+
+How does Ruby handle addition, subtraction, multiplication, and division of numbers?
+Ruby uses +, -, * and /, respectively.
+
+What is the difference between integers and floats?
+Integers are whole numbers with no decimal places. Floats are numbers with decimal places.
+
+What is the difference between integer and float division?
+See above.
+
+What are strings? Why and when would you use them?
+A string is basically a list of characters strung together. Most commonly, a string would be a group of words, but it can contain any symbol. A number can be a string, but if it is a string you can't do math with it. Most of the time that you would use strings is when you want your computer to print out or do something with that series of characters, whether it is a sentence, someone's name, or the year someone was born.
+
+What are local variables? Why and when would you use them?
+Local variables live inside a method. You would use local variables if you only want those variables to be able to be accessed and used within that method, and you don't want them messed with outside of that method.
+
+How was this challenge? Did you get a good review of some of the basics?
+This challenge was fine. It was a good review of the basics, but almost too easy. I would have rather used this time working on something else.
