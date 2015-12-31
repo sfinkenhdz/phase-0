@@ -1,7 +1,7 @@
 # Analyze the Errors
 
-# I worked on this challenge [by myself, with: ].
-# I spent [#] hours on this challenge.
+# I worked on this challenge by myself.
+# I spent 1 1/2 hours on this challenge.
 
 # --- error -------------------------------------------------------
 
@@ -41,7 +41,7 @@ south_park = "home"
 #
 # 3. What additional information does the interpreter provide about this type of error? " `south_park' for main:Object (NameError) " south_park is the undefined variable, and it is located in main. ?
 #
-# 4. Where is the error in the code? line 36
+# 4. Where is the error in the code? line 36 after south_park
 #
 # 5. Why did the interpreter give you this error? south_park is a variable, but it isn't set equal to anything.
 #
@@ -56,7 +56,7 @@ south_park = "home"
 #
 # 3. What additional information does the interpreter provide about this type of error? "`cartman' for main:Object (NoMethodError)" cartman is the method causing problems, and it is located in main. ?
 #
-# 4. Where is the error in the code? If we want to use cartman as a method, we need to define it and give it parameters.
+# 4. Where is the error in the code? In the method cartman. If we want to use cartman as a method, we need to define it and give it parameters.
 #
 # 5. Why did the interpreter give you this error? You can't just pull method out of thin air and expect Ruby to know what you want it to do.
 #
@@ -168,4 +168,7 @@ south_park = "home"
 
 
 # --- REFLECTION -------------------------------------------------------
-# Write your reflection below as a comment.
+# Which error was the most difficult to read? I didn't find these errors too difficult to figure out. They seemed pretty clear when looking at the code, especially since most code blocks were very short.
+# How did you figure out what the issue with the error was? Basically, just by going to the line referenced and looking at the code for whatever error type was specified.
+# Were you able to determine why each error message happened based on the code? Yes
+# When you encounter errors in your future code, what process will you #follow to help you debug? Looking at one error at a time, carefully comparing the error message to the code, re-checking the code to see if what I changed fixed that error and if it fixed any other errors that followed, then repeat.
