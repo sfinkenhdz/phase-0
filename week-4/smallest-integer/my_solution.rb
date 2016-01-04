@@ -12,28 +12,24 @@
 
 # Your Solution Below
 
-list_of_nums = []
 
 def smallest_integer(list_of_nums)
-
-#puts "Give me some numbers:"
-#list_of_nums = []
-
-  while true
-    input_num = gets.chomp
-    if input_num == ""
-      break
-    end
-    list_of_nums.push input_num
-  end
 
   return list_of_nums.sort[0]
 
 end
 
+# Wow. I was making this too hard.
+#puts "Give me some numbers:"
+#list_of_nums = []
 
-
-
+  # while true
+  #   input_num = gets.chomp
+  #   if input_num == ""
+  #     break
+  #   end
+  #   list_of_nums.push input_num
+  # end
 
 
 # user enters some number of numbers
