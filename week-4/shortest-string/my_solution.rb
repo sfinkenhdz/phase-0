@@ -11,29 +11,26 @@
 # If +list_of_words+ is empty the method should return nil
 
 #Your Solution Below
+#My pseudo-code is one way to do this, I think, although there may be a better or easier approach.
+#Couldn't figure out the code.
+
+
 def shortest_string(list_of_words)
-  # Your code goes here!
+
   list_of_words.each do |word|
-    word.length
+    word_length << [word.length]
 
+  Hash.new {|list_of_words, word_length| list_of_words[word_length] =
+}
 
-
-
-def total(array)
-    answer = 0
-    array.each do |num|
-        answer += num
-    end
-    p answer
-end
 
 end
 
 
-takes an array of strings
-for each string, count the length
-print word, length
-put word and length into a hash
-  numbers = key
-if hash has key 1
-  print value
+# takes an array of strings
+# for each string, count the length
+# print word, length
+# put word and length into a hash
+#   numbers = key
+# if hash has key 1
+#   print value
