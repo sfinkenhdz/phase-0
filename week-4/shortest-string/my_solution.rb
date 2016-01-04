@@ -13,11 +13,27 @@
 #Your Solution Below
 def shortest_string(list_of_words)
   # Your code goes here!
-  list_of_words.each
+  list_of_words.each do |word|
+    word.length
 
+
+
+
+def total(array)
+    answer = 0
+    array.each do |num|
+        answer += num
+    end
+    p answer
+end
 
 end
 
 
 takes an array of strings
 for each string, count the length
+print word, length
+put word and length into a hash
+  numbers = key
+if hash has key 1
+  print value
