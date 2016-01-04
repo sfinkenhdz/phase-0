@@ -19,21 +19,3 @@ def smallest_integer(list_of_nums)
 
 end
 
-# Wow. I was making this too hard.
-#puts "Give me some numbers:"
-#list_of_nums = []
-
-  # while true
-  #   input_num = gets.chomp
-  #   if input_num == ""
-  #     break
-  #   end
-  #   list_of_nums.push input_num
-  # end
-
-
-# user enters some number of numbers
-# numbers go into the array
-# each number is compared to all others
-# whichever number returns true for < all others = the smallest integer
-# print smallest integer
