@@ -20,7 +20,3 @@ def largest_integer(list_of_nums)
 end
 
 
-# input a list of numbers
-# numbers get pushed into list_of_nums
-# sort list_of_nums
-# return index[-1]
