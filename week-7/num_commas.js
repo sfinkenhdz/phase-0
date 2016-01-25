@@ -68,7 +68,7 @@ function separateComma(inputInteger) {
   };
   };
 
-separateComma(213231)
+separateComma(8676187468163)
 
 
 
