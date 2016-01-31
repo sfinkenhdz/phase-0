@@ -1,4 +1,4 @@
-![one-to-one schema](/imgs/one-to-one.png)
+![one-to-one schema](imgs/one-to-one.png)
 
 
 This relationship is one-to-one because the two tables are connected by
@@ -7,7 +7,7 @@ This relationship is one-to-one because the two tables are connected by
  employee data you'd want to access more frequently from data that you
  want to access only on occasion.
 
-![many-to-many schema](/imgs/many-to-many.png)
+![many-to-many schema](imgs/many-to-many.png)
 
 
 What is a one-to-one database?
